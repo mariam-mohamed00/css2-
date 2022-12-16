@@ -1,0 +1,20 @@
+div{
+    width: 400px;
+    background-color: lightgray;
+    margin: 20px;
+    padding: 20px;
+    white-space: nowrap;
+}
+.one{
+    white-space: normal;
+}
+.two{
+    height: 10px;
+    font-variant:small-caps;
+    overflow: hidden;
+}
+
+.three{
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
